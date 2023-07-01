@@ -13,15 +13,21 @@
 }
 .poster{
     max-height: 250px;
-    margin-right: 10px;
+    margin-right: 15px;
     cursor: pointer;
    
 }
+.poster:hover{
+    transform: scale(1.1);
+}
 .smallPoster{
     max-height: 150px;
-    margin-right:10px;
+    margin-right:15px;
     cursor: pointer;
     
+}
+.smallPoster:hover{
+    transform: scale(1.1);
 }
 .video-div{
     display: flex;
