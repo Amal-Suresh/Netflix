@@ -15,7 +15,7 @@
     max-height: 250px;
     margin-right: 15px;
     cursor: pointer;
-     transition: 0.3s;
+     transition: 0.2s;
    
 }
 .poster:hover{
@@ -23,13 +23,13 @@
 }
 .smallPoster{
     max-height: 150px;
-    margin-right:15px;
+    margin-right:20px;
     cursor: pointer;
      transition: 0.3s;
     
 }
 .smallPoster:hover{
-    transform: scale(1.1);
+    transform: scale(1.2);
 }
 .video-div{
     display: flex;
